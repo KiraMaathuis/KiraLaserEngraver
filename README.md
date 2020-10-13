@@ -10,6 +10,7 @@ This is my repository to document my laser engraver project. It has gone through
 
 ## To do
 * Design laser module mount, must be height adjustable at least by hand
+* Design an enclosure for the controllers and power supplies
 * Design an enclosure for safety
 * Design a fume extraction method
 
@@ -27,7 +28,11 @@ Not 3D printed:
 * 2x [Belt (G2T) Pulley 30 teeth](https://grabcad.com/library/gt2-timing-pulley-30-tooth-1)
 * 1x [G2T timing belt](https://reprap.org/wiki/GT2_Timing_Belt)
 * 2x [Nema 14 motors](https://www.omc-stepperonline.com/nema-14-stepper-motor/nema-14-bipolar-1-8deg-14ncm-20oz-in-0-4a-12v-35x35x26mm-4-wires.html)
-* 1x 3.5 Watt laser module
+* 1x 3.5 Watt laser module (includes driver and power supply)
+* 1x [Arduino Uno](https://store.arduino.cc/arduino-uno-rev3)
+* 1x [CNC shield v3](https://blog.protoneer.co.nz/arduino-cnc-shield/)
+* 1x [40 Watt 12V power supply](http://www.meanwell.nl/products/Meanwell-RS-50-12---PSU-enclosed-12V-42A__RS-50-12.aspx)
+
 
 3D printed:
 * 2x motor and 2020 extrusion mount [Left](./3D_prints/2020_Motor_L.stl) and [Right](./3D_prints/2020_Motor_R.stl)
