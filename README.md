@@ -8,6 +8,11 @@ This is my repository to document my laser engraver project. It has gone through
 * The machine must be rigid enough to not need fixture onto anything.
 * The machine must be quiet enough to be used within my student studio.
 
+## To do
+* Design laser module mount, must be height adjustable at least by hand
+* Design an enclosure for safety
+* Design a fume extraction method
+
 ## Current design overview
 
 ![Alt text](./images/3D_Model_Ensemble.png)
