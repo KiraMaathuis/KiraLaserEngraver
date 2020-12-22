@@ -11,6 +11,7 @@ This is a new version which is a bit smaller in form, as my last design was stil
 * The machine must be quiet enough to be used within my student studio.
 
 ## To do
+* Add clamps to allow for a glass/wooden bed
 * Design an enclosure for the controllers and power supplies
 * Design an enclosure for safety
 * Design a fume extraction method
@@ -22,8 +23,9 @@ This is a new version which is a bit smaller in form, as my last design was stil
 
 ## Parts used
 Not 3D printed:
-* 2x 25mm 2020 Vslot extrusion
+* 2x 250mm 2020 Vslot extrusion
 * 3x 300mm 2020 Vslot extrusion
+* 2x 300mm 2040 Vslot extrusion
 * 3x [Mini Vslot gantry](https://grabcad.com/library/mini-v-gantry-kit-1)
 * 4x [F625ZZ flanged ball bearing](https://reprap.org/wiki/Ball_bearing)
 * 4x [GT2Pulley](https://www.tinytronics.nl/shop/nl/3d-printen/onderdelen/gt2-16-pulley-tandloos-3mm-as-met-rollager)
